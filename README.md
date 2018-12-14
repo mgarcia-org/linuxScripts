@@ -1,5 +1,5 @@
 # linuxScripts
-random linux scripts
+My linux hacky scripts
 
 More info on scripts here:
 http://mgarcia.org/Blog/Raspberry-pi-web-storage-security-server
